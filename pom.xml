@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>kodlama.io</groupId>
-	<artifactId>rentACar</artifactId>
+	<artifactId>kapinda</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>rentACar</name>
 	<description>Demo project for Spring Boot</description>
